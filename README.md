@@ -1,6 +1,8 @@
 ### VistA App Analytics
 
-gantt
+
+
+``gantt
     title A Gantt Diagram
     dateFormat  YYYY-MM-DD
     section Section
@@ -9,4 +11,4 @@ gantt
     section Another
     Task in sec      :2014-01-12  , 12d
     another task      : 24d
-    
+  ``  
